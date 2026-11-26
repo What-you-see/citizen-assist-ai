@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "categoria": "Bilhete Unico",
+    "titulo": "Solicitar o Bilhete Unico Comum",
+    "palavras_chave": ["bilhete unico", "comum", "solicitar", "cadastro", "idade"],
+    "resposta": "Qualquer pessoa a partir de seis anos pode solicitar o Bilhete Unico Comum acessando o Site de Atendimento da SPTrans e preenchendo o cadastro, podendo escolher receber em casa com pagamento de frete ou retirar em um Posto de Atendimento.",
+    "fonte": "https://www.sptrans.com.br",
+    "acessos": 0
+  },
+  {
+    "id": 2,
+    "categoria": "Bilhete Unico",
+    "titulo": "Regras de uso do Bilhete Unico Comum e Vale-Transporte",
+    "palavras_chave": ["credito comum", "vale-transporte", "integracao", "embarques", "onibus"],
+    "resposta": "No credito comum, sao permitidos ate 4 embarques em onibus diferentes em 3 horas com uma tarifa, ou integracao com trilhos (Metro/CPTM) conforme as regras de tempo. No Vale-Transporte, sao permitidos 2 embarques em onibus em 3 horas ou integracao com trilhos dentro do prazo estipulado.",
+    "fonte": "https://www.sptrans.com.br",
+    "acessos": 0
+  },
+  {
+    "id": 3,
+    "categoria": "Bilhete Unico",
+    "titulo": "Bilhete Temporal mensal e 24 horas",
+    "palavras_chave": ["bilhete temporal", "mensal", "24 horas", "viagens", "tarifa"],
+    "resposta": "O credito eletronico comum temporal permite ate 10 viagens por dia no periodo de 31 dias (mensal) ou ate 10 viagens em 24 horas continuas (24h), contadas a partir da primeira utilizacao, pelo valor da tarifa vigente.",
+    "fonte": "https://www.sptrans.com.br",
+    "acessos": 0
+  },
+  {
+    "id": 4,
+    "categoria": "Recarga e Tarifas",
+    "titulo": "Como fazer recarga do Bilhete Unico",
+    "palavras_chave": ["recarga", "creditos", "aplicativos", "pontos de venda", "loja virtual"],
+    "resposta": "A compra e recarga de creditos podem ser feitas por aplicativos credenciados, Loja Virtual SPTrans, pontos de venda e recarga espalhados pela cidade, empresas credenciadas ou postos de atendimento. Em apps, apos confirmar o pagamento, e preciso carregar nos equipamentos de terminais, estacoes ou onibus habilitados.",
+    "fonte": "https://www.sptrans.com.br",
+    "acessos": 0
+  },
+  {
+    "id": 5,
+    "categoria": "Atendimento e Acessibilidade",
+    "titulo": "Canais de atendimento SP156 e Posto Central",
+    "palavras_chave": ["atendimento", "sp156", "telefone", "posto central", "boa vista"],
+    "resposta": "O atendimento pode ser feito pelo Portal SP156, ChatSP156 no WhatsApp (11) 3230-5156, aplicativo SP156, telefone 156 na capital (ou 0800-011-0156 na Grande Sao Paulo) e Descomplica SP. O Posto Central fica na Rua Boa Vista, 274, Mezanino, Centro, de segunda a sexta, das 8h as 17h.",
+    "fonte": "https://www.sptrans.com.br",
+    "acessos": 0
+  },
+  {
+    "id": 6,
+    "categoria": "Atendimento e Acessibilidade",
+    "titulo": "Servico Atende+ e atrasos no transporte especial",
+    "palavras_chave": ["atende+", "acessibilidade", "deficiencia", "autismo", "atraso"],
+    "resposta": "O Atende+ e um transporte gratuito, porta a porta, das 7h as 20h de segunda a domingo (exceto feriados), destinado a pessoas com autismo, surdocegueira ou deficiencia fisica severa/mobilidade altamente reduzida. Se o veiculo atrasar mais de 10 minutos no dia da viagem, avise imediatamente a Central 156.",
+    "fonte": "https://www.sptrans.com.br",
+    "acessos": 0
+  }
+]
