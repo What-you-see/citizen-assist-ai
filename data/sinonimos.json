@@ -1,0 +1,8 @@
+{
+  "busao": ["onibus"],
+  "carregar": ["recarga", "creditos"],
+  "app": ["aplicativos"],
+  "fone": ["telefone", "atendimento"],
+  "deficiente": ["deficiencia", "atende+"],
+  "demora": ["atraso"]
+}
